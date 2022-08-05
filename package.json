@@ -1,0 +1,17 @@
+{
+  "name": "all-the-rooms-test-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "jest": {
+    "verbose": false
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
